@@ -1,0 +1,30 @@
+[org.mate.interface]
+gtk-theme="Mint-L-Dark-Red"
+icon-theme="Mint-L-Red"
+font-name="Sans 12"
+monospace-font-name="Monospace 12"
+document-font-name="Sans 12"
+menus-have-icons=true
+buttons-have-icons=false
+enable-animations=false
+
+[org.mate.Marco.general]
+theme="Mint-L-Dark-Red"
+button-layout=":minimize,maximize,close"
+titlebar-font="Ubuntu Medium 10"
+num-workspaces=4
+center-new-windows=true
+compositing-manager=true
+
+[org.mate.panel]
+default-layout='mint-menu-stand-alone-top'
+
+[com.solus-project.brisk-menu]
+#hot-key='Super_L'
+#hot-key=''
+hot-key='<Alt>F1'
+
+[com.linuxmint.mintmenu]
+#hot-key='Super_L'
+#hot-key=''
+hot-key='<Alt>F1'

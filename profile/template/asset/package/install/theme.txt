@@ -1,0 +1,14 @@
+
+
+##
+## # Theme
+##
+
+
+
+
+##
+## ## Package / Theme / adwaita
+##
+
+adwaita-icon-theme

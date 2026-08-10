@@ -1,0 +1,37 @@
+
+
+##
+## # Desktop Environment
+##
+
+
+
+
+##
+## ## Package / Desktop Environment / Mate
+##
+
+
+##
+## Please See: linuxmint.txt
+##
+
+
+mate-tweak
+
+mate-applet-brisk-menu
+
+
+
+
+##
+## ## Package / Window Manager / compiz
+##
+
+compiz
+compiz-plugins
+compiz-plugins-extra
+compiz-mate
+
+
+compizconfig-settings-manager

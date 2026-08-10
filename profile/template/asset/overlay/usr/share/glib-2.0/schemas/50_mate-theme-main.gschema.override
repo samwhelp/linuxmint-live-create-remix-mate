@@ -1,0 +1,15 @@
+
+
+[org.mate.Marco.general]
+theme='Mint-L-Dark-Red'
+
+
+[org.mate.interface]
+gtk-theme='Mint-L-Dark-Red'
+icon-theme='Mint-L-Red'
+
+
+[org.mate.peripherals-mouse]
+cursor-theme='Bibata-Modern-Classic'
+cursor-size=24
+
